@@ -1,4 +1,4 @@
-	.file	"arith.c"
+	.file	"arithmetic.c"
 	.intel_syntax noprefix
 	.text
 	.globl	main
